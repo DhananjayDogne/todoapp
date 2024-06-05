@@ -1,3 +1,13 @@
+# TODO App
+1. Add Todo :You can type text for todo and click add
+2. Edit Todo: click on pen (edit) button to edit
+3. Delete Todo: click on delete  button to edit
+4. Completed Todo : Click on todo to cut it , if is completed
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
